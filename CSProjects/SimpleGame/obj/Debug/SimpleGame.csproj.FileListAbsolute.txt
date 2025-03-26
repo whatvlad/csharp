@@ -1,0 +1,7 @@
+C:\CSProjects\SimpleGame\bin\Debug\SimpleGame.exe.config
+C:\CSProjects\SimpleGame\bin\Debug\SimpleGame.exe
+C:\CSProjects\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\CSProjects\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+C:\CSProjects\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+C:\CSProjects\SimpleGame\obj\Debug\SimpleGame.exe
+C:\CSProjects\SimpleGame\obj\Debug\SimpleGame.pdb
